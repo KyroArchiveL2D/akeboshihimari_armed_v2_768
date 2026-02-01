@@ -1,0 +1,122 @@
+{
+  "SettingModel": {
+    "version": 5,
+    "skel": "CH0332_home.skel",
+    "atlas": "CH0332_home.atlas",
+    "eyeTouch": "Touch_Me",
+    "idol": "Idle_01",
+    "x": 755,
+    "y": 800,
+    "scale": 0.45,
+    "angle": 0,
+    "bgmVolume": 0.1,
+    "talkVolume": 0.5,
+    "showTouch": false,
+    "panelDisplay": false,
+    "showTalkDialog": true,
+    "textX": 500,
+    "textY": 430,
+    "textSize": 16,
+    "autoTalk": 0,
+    "resolution": "2k",
+    "startAnimation": "Start_Idle_01",
+    "startScene": true,
+    "language": "Bahasa Indonesia"
+  },
+  "EventInfos" : [
+    {"BoneName": "Spine_03", "Width": 1500, "Height": 800, "Animations":
+    ["Talk_01_M","Talk_02_M","Talk_03_M","Talk_04_M","Talk_05_M", "Talk_06_M"],
+	"AnimationIndex": 10, "TextIndex":  0, "ClickType" : "pointerdown", "EmptyAnimation": true},
+
+    {"BoneName": "Goggle_01", "Width": 800, "Height": 500, "Animations":
+	["Pat_01_M"], 
+	"AnimationIndex": 20, "TextIndex":  0, "ClickType" :  "pointerdown", "EmptyAnimation": false}
+	
+  ],
+  "AnimationsTexts" : {
+    "中文": {
+      "Sound/CH0332_MemorialLobby_1_1": "很不可思议，对吧。",
+      "Sound/CH0332_MemorialLobby_1_2": "和千年学院并没有什么不同，在这里也同样能够仰望夜空。",
+      "Sound/CH0332_MemorialLobby_2_1": "但那闪烁的星辰，却与我们所熟知的并不相同。",
+      "Sound/CH0332_MemorialLobby_2_2": "无论如何都很难用语言表达……是一种难以形容的感觉。",
+      "Sound/CH0332_MemorialLobby_3_1": "是、是吗……！？",
+      "Sound/CH0332_MemorialLobby_3_2": "谢、谢谢您。那个……我就当作是夸奖收下了。",
+      "Sound/CH0332_MemorialLobby_4_1": "……即便身处同一片夜空之下。",
+      "Sound/CH0332_MemorialLobby_4_2": "也未必就能够彼此理解。",
+      "Sound/CH0332_MemorialLobby_5_1": "不过至少，我们正处在「同一片」夜空之下。",
+      "Sound/CH0332_MemorialLobby_5_2": "或许，这能成为彼此理解的一个契机吧。",
+      "Sound/CH0332_MemorialLobby_6_1": "我是这样想的。",
+      "Sound/CH0332_MemorialLobby_6_2": "老师，您是怎么想的呢？"
+    },
+    "日本語": {
+      "Sound/CH0332_MemorialLobby_1_1": "不思議ですよね。",
+      "Sound/CH0332_MemorialLobby_1_2": "ミレニアムと変わらず、ここでも夜空を見上げることはできるのに。",
+      "Sound/CH0332_MemorialLobby_2_1": "瞬く星は、私たちの知るものとは異なっていて。",
+      "Sound/CH0332_MemorialLobby_2_2": "どうにも言語化が難しい……形容しがたい感覚です。",
+      "Sound/CH0332_MemorialLobby_3_1": "はい……！？",
+      "Sound/CH0332_MemorialLobby_3_2": "あ、ありがとうございます。その……褒め言葉として受け取っておきます。",
+      "Sound/CH0332_MemorialLobby_4_1": "……同じ夜空の下にいても。",
+      "Sound/CH0332_MemorialLobby_4_2": "互いが互いを理解できるとは限りません。",
+      "Sound/CH0332_MemorialLobby_5_1": "ですが少なくとも、「同じ」夜空の下にいるのですから。",
+      "Sound/CH0332_MemorialLobby_5_2": "互いを理解するきっかけくらいには、なるのではないでしょうか。",
+      "Sound/CH0332_MemorialLobby_6_1": "私は、そんな風に思うのです。",
+      "Sound/CH0332_MemorialLobby_6_2": "先生は、どう思われますか？"
+    },
+    "English": {
+      "Sound/CH0332_MemorialLobby_1_1": "It's quite mysterious, isn't it?",
+      "Sound/CH0332_MemorialLobby_1_2": "Just like at Millennium, we can still look up at the night sky here.",
+      "Sound/CH0332_MemorialLobby_2_1": "Yet the twinkling stars are different from the ones we know.",
+      "Sound/CH0332_MemorialLobby_2_2": "It's difficult to put into words... an indescribable sensation.",
+      "Sound/CH0332_MemorialLobby_3_1": "R-Really...!?",
+      "Sound/CH0332_MemorialLobby_3_2": "Th-Thank you. Um... I'll take that as a compliment.",
+      "Sound/CH0332_MemorialLobby_4_1": "...Even under the same night sky.",
+      "Sound/CH0332_MemorialLobby_4_2": "It doesn't necessarily mean we can understand each other.",
+      "Sound/CH0332_MemorialLobby_5_1": "But at the very least, we are beneath the \"same\" night sky.",
+      "Sound/CH0332_MemorialLobby_5_2": "Perhaps that alone can become a starting point for mutual understanding.",
+      "Sound/CH0332_MemorialLobby_6_1": "That's how I see it.",
+      "Sound/CH0332_MemorialLobby_6_2": "What do you think, Sensei?"
+    },
+    "Tiếng Việt": {
+      "Sound/CH0332_MemorialLobby_1_1": "Thật kỳ lạ, phải không?",
+      "Sound/CH0332_MemorialLobby_1_2": "Cũng giống như ở Millennium, ở đây chúng ta vẫn có thể ngước nhìn bầu trời đêm.",
+      "Sound/CH0332_MemorialLobby_2_1": "Nhưng những vì sao lấp lánh ấy lại khác với những gì chúng ta từng biết.",
+      "Sound/CH0332_MemorialLobby_2_2": "Thật khó để diễn tả bằng lời… một cảm giác khó nói thành lời.",
+      "Sound/CH0332_MemorialLobby_3_1": "Th-Thật vậy sao…!?",
+      "Sound/CH0332_MemorialLobby_3_2": "C-Cảm ơn thầy. Ờ thì… em xin nhận đó như một lời khen.",
+      "Sound/CH0332_MemorialLobby_4_1": "…Ngay cả khi ở dưới cùng một bầu trời đêm.",
+      "Sound/CH0332_MemorialLobby_4_2": "Chúng ta cũng chưa chắc đã có thể hiểu được nhau.",
+      "Sound/CH0332_MemorialLobby_5_1": "Nhưng ít nhất thì, chúng ta đang ở dưới \"cùng một\" bầu trời đêm.",
+      "Sound/CH0332_MemorialLobby_5_2": "Có lẽ chừng đó cũng đủ để trở thành một khởi đầu cho sự thấu hiểu lẫn nhau.",
+      "Sound/CH0332_MemorialLobby_6_1": "Em nghĩ là như vậy.",
+      "Sound/CH0332_MemorialLobby_6_2": "Thầy nghĩ sao ạ?"
+    },
+    "Русский": {
+      "Sound/CH0332_MemorialLobby_1_1": "Это действительно загадочно, не так ли?",
+      "Sound/CH0332_MemorialLobby_1_2": "Как и в Миллениуме, здесь мы тоже можем смотреть на ночное небо.",
+      "Sound/CH0332_MemorialLobby_2_1": "Но мерцающие звёзды отличаются от тех, что мы знаем.",
+      "Sound/CH0332_MemorialLobby_2_2": "Это трудно выразить словами… чувство, которое сложно описать.",
+      "Sound/CH0332_MemorialLobby_3_1": "П-Правда…!?",
+      "Sound/CH0332_MemorialLobby_3_2": "С-Спасибо. Эм… я приму это как комплимент.",
+      "Sound/CH0332_MemorialLobby_4_1": "…Даже находясь под одним и тем же ночным небом.",
+      "Sound/CH0332_MemorialLobby_4_2": "Мы не всегда можем понять друг друга.",
+      "Sound/CH0332_MemorialLobby_5_1": "Но, по крайней мере, мы под «одним и тем же» ночным небом.",
+      "Sound/CH0332_MemorialLobby_5_2": "Возможно, этого достаточно, чтобы стать поводом для взаимного понимания.",
+      "Sound/CH0332_MemorialLobby_6_1": "Я думаю именно так.",
+      "Sound/CH0332_MemorialLobby_6_2": "А вы как считаете, сэнсэй?"
+    },
+    "Bahasa Indonesia": {
+      "Sound/CH0332_MemorialLobby_1_1": "Rasanya ajaib banget, ya?",
+      "Sound/CH0332_MemorialLobby_1_2": "Padahal sama kayak di Millennium, di sini kita juga bisa liat langit malem.",
+      "Sound/CH0332_MemorialLobby_2_1": "Tapi bintang-bintang yang kelap-kelip itu rasanya beda banget sama yang biasa kita kenal.",
+      "Sound/CH0332_MemorialLobby_2_2": "Susah banget dijelasin pake kata-kata... vibes-nya tuh beneran susah dideskripsiin.",
+      "Sound/CH0332_MemorialLobby_3_1": "Eh, seriusan...!?",
+      "Sound/CH0332_MemorialLobby_3_2": "M-makasih lho. Ehm... aku anggep itu pujian deh ya.",
+      "Sound/CH0332_MemorialLobby_4_1": "...Walaupun kita lagi ada di bawah langit malem yang sama.",
+      "Sound/CH0332_MemorialLobby_4_2": "Belum tentu kita bisa bener-bener saling ngerti satu sama lain.",
+      "Sound/CH0332_MemorialLobby_5_1": "Tapi seenggaknya, karena kita lagi di bawah langit malem yang \"sama\".",
+      "Sound/CH0332_MemorialLobby_5_2": "Mungkin itu bisa jadi start buat kita saling memahami.",
+      "Sound/CH0332_MemorialLobby_6_1": "Aku sih mikirnya gitu.",
+      "Sound/CH0332_MemorialLobby_6_2": "Kalo menurut Sensei gimana?"
+    }
+  }
+}

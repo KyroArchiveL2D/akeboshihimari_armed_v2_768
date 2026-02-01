@@ -1,0 +1,644 @@
+CH0332_home.png
+size: 4096,4096
+filter:Linear,Linear
+scale:0.68
+FX_breath_01
+bounds: 2118,3868,152,142
+offsets: 2,4,160,148
+FX_breath_02
+bounds: 4,3088,182,168
+offsets: 0,4,184,176
+Hair_Back_Head
+bounds: 1944,1364,178,232
+offsets: 4,0,186,236
+L_breast
+bounds: 864,746,380,438
+offsets: 10,8,398,448
+L_double_eyelid_close
+bounds: 22,2232,74,106
+offsets: 8,8,88,120
+L_double_eyelid_default
+bounds: 168,1348,166,176
+offsets: 10,12,190,198
+L_double_eyelid_smile
+bounds: 4,2500,64,122
+offsets: 10,12,80,144
+L_eye
+bounds: 270,3316,114,116
+offsets: 10,8,136,136
+L_eye2
+bounds: 3048,3956,128,122
+offsets: 12,12,148,146
+L_eye_light
+bounds: 2250,4034,38,44
+offsets: 6,8,50,56
+L_eye_light2
+bounds: 192,4048,36,30
+offsets: 8,10,52,50
+L_eye_white
+bounds: 1440,2430,74,84
+offsets: 4,6,82,94
+L_eyebrow_02
+bounds: 472,2980,236,256
+offsets: 10,10,254,274
+L_eyebrow_2
+bounds: 3570,82,226,242
+offsets: 2,0,238,252
+L_eyebrow_3
+bounds: 928,374,230,180
+offsets: 4,10,244,202
+L_eyebrow_default
+bounds: 810,2002,248,260
+offsets: 6,10,258,276
+L_eyelish_Close
+bounds: 1924,1206,200,262
+offsets: 0,0,206,272
+L_eyelish_Smile
+bounds: 948,1774,220,258
+offsets: 0,0,226,264
+L_index_finger_1
+bounds: 584,2942,82,66
+offsets: 12,12,106,88
+L_index_finger_2
+bounds: 2038,3914,78,60
+offsets: 10,12,100,82
+L_index_finger_3
+bounds: 3752,2460,92,70
+offsets: 10,12,114,92
+L_line_flush
+bounds: 1014,1214,182,190
+offsets: 12,8,204,206
+L_middle_finger_1
+bounds: 1254,4006,80,72
+offsets: 12,12,104,96
+L_middle_finger_2
+bounds: 3248,2558,102,78
+offsets: 6,10,120,100
+L_middle_finger_3
+bounds: 3462,2548,122,64
+offsets: 10,10,138,82
+L_palm
+bounds: 2590,120,298,222
+offsets: 10,10,316,240
+L_pinky_finger_1
+bounds: 1170,3948,82,66
+offsets: 10,8,100,82
+L_pinky_finger_2
+bounds: 2184,4018,72,60
+offsets: 10,10,92,80
+L_pinky_finger_3
+bounds: 370,3846,112,98
+offsets: 10,10,132,118
+L_pupil
+bounds: 1330,4030,52,48
+offsets: 8,10,66,66
+L_pupil2
+bounds: 1182,4038,44,40
+offsets: 12,12,66,66
+L_ring finger_1
+bounds: 4,3010,90,92
+offsets: 8,8,104,108
+L_ring finger_2
+bounds: 3994,3422,98,86
+offsets: 6,10,112,104
+L_ring finger_3
+bounds: 2000,3018,110,66
+offsets: 8,10,126,82
+R_breast
+bounds: 2182,3192,304,234
+offsets: 6,10,320,256
+R_double_eyelid_close
+bounds: 3958,3568,72,86
+offsets: 8,6,80,96
+R_double_eyelid_default
+bounds: 1462,1674,90,130
+offsets: 12,14,114,156
+R_double_eyelid_smile
+bounds: 1092,3796,80,74
+offsets: 8,8,96,90
+R_eye
+bounds: 3248,3972,108,106
+offsets: 8,12,126,130
+R_eye2
+bounds: 3626,3982,106,96
+offsets: 12,10,126,116
+R_eye_light
+bounds: 228,4042,18,36
+offsets: 12,8,40,54
+R_eye_light2
+bounds: 244,4040,28,38
+offsets: 10,10,48,56
+R_eye_white
+bounds: 4046,3850,46,74
+offsets: 6,4,58,84
+R_eyebrow_02
+bounds: 1474,2426,140,204
+offsets: 12,12,160,228
+R_eyebrow_2
+bounds: 4,2190,86,168
+offsets: 12,10,108,184
+R_eyebrow_3
+bounds: 1228,3898,44,180
+offsets: 10,14,68,210
+rotate:180
+R_eyebrow_default
+bounds: 4,2288,150,206
+offsets: 8,8,166,226
+R_eyelish_Close
+bounds: 728,1610,110,198
+offsets: 10,10,130,218
+R_eyelish_Smile
+bounds: 968,1674,130,210
+offsets: 12,6,150,220
+R_line_flush
+bounds: 694,2998,100,140
+offsets: 8,0,108,144
+R_pupil
+bounds: 3734,4028,44,50
+offsets: 12,8,64,70
+R_pupil2
+bounds: 1136,4038,48,40
+offsets: 8,8,64,58
+T_L_eyebrow_default
+bounds: 4,464,206,254
+offsets: 2,12,218,274
+T_R_eyebrow_default
+bounds: 922,2176,90,170
+offsets: 10,10,104,184
+back_arm_0
+bounds: 1930,3084,368,496
+offsets: 0,6,368,502
+back_arm_1
+bounds: 8,3218,364,680
+offsets: 8,8,376,694
+back_butt_0
+bounds: 712,492,648,260
+offsets: 4,180,658,446
+back_head_0
+bounds: 2886,208,542,188
+offsets: 0,0,542,202
+back_head_1
+bounds: 3106,1930,250,116
+offsets: 0,6,258,126
+back_head_2
+bounds: 198,736,666,386
+offsets: 20,6,690,430
+back_head_3
+bounds: 3244,502,314,210
+offsets: 2,4,322,218
+back_head_4
+bounds: 3694,106,398,294
+offsets: 6,10,414,306
+rotate:180
+back_head_5
+bounds: 1580,2096,208,278
+offsets: 10,12,226,296
+back_head_6
+bounds: 1152,3706,388,372
+offsets: 2,4,394,382
+back_leg_0
+bounds: 2298,138,276,342
+offsets: 12,28,292,438
+rotate:90
+bike_FX_01
+bounds: 1544,976,554,732
+offsets: 0,0,554,734
+bike_FX_02
+bounds: 3532,226,372,276
+offsets: 4,0,376,282
+bike_FX_03
+bounds: 3700,2988,402,248
+offsets: 4,6,410,258
+rotate:90
+bike_pedal_0
+bounds: 3306,1914,632,786
+offsets: 0,2,632,788
+rotate:90
+body_0
+bounds: 962,1692,768,728
+offsets: 162,8,1282,756
+body_1
+bounds: 1656,1580,962,2092
+offsets: 0,2,962,2096
+rotate:90
+body_2
+bounds: 1934,618,752,596
+offsets: 2,0,754,596
+rotate:270
+body_3
+bounds: 3248,2564,218,308
+offsets: 2,0,220,308
+body_4
+bounds: 3248,2924,784,1154
+offsets: 0,8,788,1164
+ear
+bounds: 4,1450,170,234
+offsets: 0,6,170,240
+face
+bounds: 340,3164,822,880
+offsets: 8,14,842,916
+flushed_eyelid_L
+bounds: 3248,2880,164,176
+offsets: 12,8,186,198
+flushed_eyelid_R
+bounds: 4,3738,136,168
+offsets: 0,0,136,174
+flyaways_0
+bounds: 758,1864,176,214
+offsets: 8,10,194,236
+flyaways_1
+bounds: 2936,522,346,108
+offsets: 0,10,346,122
+goggles_2
+bounds: 2590,670,434,762
+offsets: 4,8,444,778
+rotate:270
+goggles_origin
+bounds: 2300,772,644,736
+offsets: 234,98,974,938
+rotate:270
+ground
+bounds: 2910,1026,1182,878
+hair_0
+bounds: 3750,2198,192,304
+offsets: 10,6,206,312
+hair_1
+bounds: 2504,1706,236,110
+offsets: 4,10,248,130
+hair_10
+bounds: 3248,3770,376,308
+offsets: 2,10,388,318
+hair_11
+bounds: 1366,266,494,268
+offsets: 6,10,508,284
+rotate:180
+hair_12
+bounds: 4,388,562,584
+offsets: 32,8,600,604
+rotate:90
+hair_13
+bounds: 2404,2410,230,118
+offsets: 4,8,244,132
+hair_14
+bounds: 1594,144,290,186
+offsets: 10,10,308,208
+hair_15
+bounds: 688,20,236,202
+offsets: 8,10,252,218
+hair_16
+bounds: 4,3260,118,154
+offsets: 0,0,126,166
+hair_18
+bounds: 3934,3532,152,318
+offsets: 8,8,168,336
+hair_2
+bounds: 1648,798,284,190
+offsets: 6,8,300,204
+hair_3
+bounds: 488,112,282,602
+offsets: 10,8,300,614
+rotate:180
+hair_4
+bounds: 1150,66,212,442
+offsets: 8,8,228,450
+rotate:90
+hair_5
+bounds: 742,82,216,308
+offsets: 6,12,236,326
+rotate:90
+hair_6
+bounds: 3776,152,316,352
+offsets: 0,8,324,360
+rotate:180
+hair_7
+bounds: 3158,86,388,364
+offsets: 4,8,400,376
+rotate:180
+hair_front
+bounds: 1554,512,118,188
+offsets: 10,10,138,208
+hoodie
+bounds: 108,2464,186,194
+offsets: 72,6,264,206
+hoverbike_0
+bounds: 1840,3974,346,104
+hoverbike_1
+bounds: 1576,2528,1550,1668
+offsets: 68,0,1618,2022
+rotate:90
+hoverbike_fx
+bounds: 4,154,314,154
+jacket_0
+bounds: 3254,3890,60,86
+offsets: 10,8,74,98
+jacket_1
+bounds: 1182,3468,316,588
+offsets: 8,12,336,612
+jacket_1_1
+bounds: 904,68,192,424
+offsets: 6,12,208,436
+rotate:90
+jacket_2
+bounds: 2612,3768,140,310
+offsets: 8,6,156,328
+jacket_3
+bounds: 280,2636,194,164
+offsets: 6,6,200,176
+jacket_4
+bounds: 2214,3424,406,654
+offsets: 6,6,418,662
+jacket_5
+bounds: 3378,2502,714,982
+offsets: 4,4,720,992
+jacket_6
+bounds: 2870,476,856,482
+offsets: 8,2,870,486
+jacket_7
+bounds: 4,2522,650,826
+offsets: 10,6,670,840
+jacket_back
+bounds: 890,1096,708,758
+offsets: 0,0,710,758
+leaf_0
+bounds: 4008,3334,68,108
+offsets: 6,4,80,116
+leaf_1
+bounds: 2754,3908,30,88
+offsets: 6,2,42,96
+mouse_1
+bounds: 3282,2798,82,120
+offsets: 8,10,100,136
+mouse_2
+bounds: 1794,2412,124,120
+offsets: 8,12,142,138
+mouse_3
+bounds: 750,3052,142,120
+offsets: 12,10,166,138
+mouse_4
+bounds: 3998,3960,92,118
+offsets: 10,14,114,138
+mouse_5
+bounds: 2336,2424,78,104
+offsets: 12,10,100,124
+mouse_6
+bounds: 34,4002,42,48
+offsets: 12,8,64,66
+mouse_7
+bounds: 2584,4028,60,50
+offsets: 12,12,88,70
+mouse_doyagao
+bounds: 84,3804,68,98
+offsets: 10,10,90,120
+neck
+bounds: 3906,3846,170,232
+offsets: 4,2,176,236
+nose02
+bounds: 3556,2904,72,94
+offsets: 10,6,82,108
+petal_0
+bounds: 3248,3672,68,108
+offsets: 10,10,88,126
+petal_1
+bounds: 2614,3632,70,196
+offsets: 10,4,90,204
+petal_2
+bounds: 4028,3686,64,98
+offsets: 12,10,86,116
+petal_3
+bounds: 20,3556,68,180
+offsets: 10,6,88,190
+petal_4
+bounds: 1914,2930,128,114
+offsets: 8,8,142,134
+petal_5
+bounds: 3356,4026,32,52
+offsets: 12,12,54,74
+reflect 00
+bounds: 4,1346,2222,2732
+offsets: 54,4,2276,2790
+reflect 01
+bounds: 16,256,602,266
+offsets: 4,4,606,270
+reflect 02
+bounds: 4,924,326,184
+reflect03
+bounds: 2234,338,594,356
+offsets: 0,8,594,364
+shadow_0
+bounds: 2486,3408,100,104
+offsets: 8,8,120,122
+shadow_1
+bounds: 2402,562,214,182
+offsets: 12,14,238,208
+shadow_1_1
+bounds: 1620,2378,206,150
+offsets: 0,10,206,160
+shadow_1_2
+bounds: 2148,3582,72,118
+offsets: 12,16,96,148
+shadow_3
+bounds: 2054,1506,284,212
+offsets: 0,6,288,218
+shadow_4
+bounds: 1154,1312,138,222
+offsets: 12,0,158,236
+shadow_5
+bounds: 2496,1232,148,110
+offsets: 12,12,172,134
+shadow_6
+bounds: 1738,2908,248,246
+offsets: 6,10,264,256
+shadow_7
+bounds: 1508,3996,158,82
+offsets: 0,10,158,92
+spark_01
+bounds: 2030,50,364,338
+offsets: 0,6,364,344
+rotate:180
+sweat_0
+bounds: 1034,3984,30,54
+offsets: 8,10,48,64
+sweat_1
+bounds: 3598,4022,30,56
+offsets: 8,10,48,72
+sweat_2
+bounds: 3002,4016,58,62
+offsets: 2,4,62,66
+sweat_3
+bounds: 3032,3888,28,70
+offsets: 8,10,44,88
+sweat_4
+bounds: 130,4058,64,20
+offsets: 10,10,84,40
+thumb_1
+bounds: 1148,3608,76,106
+offsets: 12,10,98,126
+thumb_2
+bounds: 2936,3842,90,122
+offsets: 10,10,108,142
+thumb_3
+bounds: 1070,3854,140,174
+offsets: 10,8,158,188
+twintail_back_0
+bounds: 3212,4,334,364
+offsets: 4,6,342,374
+rotate:270
+twintail_back_1
+bounds: 1598,86,340,478
+offsets: 2,0,344,478
+rotate:270
+twintail_back_2
+bounds: 2804,298,476,846
+offsets: 2,0,478,846
+rotate:270
+twintail_back_5
+bounds: 4,4014,64,512
+offsets: 4,6,74,524
+rotate:270
+twintail_back_6
+bounds: 642,1322,712,386
+rotate:90
+twintail_back_7
+bounds: 2820,18,176,342
+offsets: 2,2,180,346
+rotate:90
+twintail_back_light
+bounds: 2124,1262,636,782
+rotate:90
+twintail_front_0
+bounds: 1710,420,432,688
+offsets: 0,2,432,690
+rotate:90
+twintail_front_1
+bounds: 142,1392,216,168
+offsets: 8,10,232,188
+twintail_front_10
+bounds: 870,4014,374,64
+offsets: 8,8,388,78
+twintail_front_11
+bounds: 336,1292,624,182
+offsets: 4,6,636,196
+twintail_front_12
+bounds: 402,42,208,394
+offsets: 430,176,644,572
+rotate:90
+twintail_front_12_2
+bounds: 1116,24,460,184
+offsets: 2,6,644,572
+twintail_front_2
+bounds: 4,1074,960,346
+offsets: 6,0,1264,972
+twintail_front_2_2
+bounds: 768,258,380,784
+offsets: 884,184,1264,972
+rotate:90
+twintail_front_3
+bounds: 3572,682,418,128
+offsets: 0,4,496,430
+twintail_front_3_2
+bounds: 1824,588,174,320
+offsets: 318,106,496,430
+rotate:90
+twintail_front_4
+bounds: 438,66,270,302
+offsets: 0,4,272,306
+rotate:90
+twintail_front_5
+bounds: 3352,414,724,606
+twintail_front_7
+bounds: 328,602,356,182
+offsets: 8,8,376,196
+twintail_front_8
+bounds: 4,3896,872,182
+offsets: 6,4,880,190
+twintail_front_9
+bounds: 3598,2956,122,98
+offsets: 6,8,134,112
+twintail_front_light 01
+bounds: 2744,3958,312,120
+offsets: 4,2,320,128
+twintail_front_light 02
+bounds: 2158,736,150,156
+offsets: 4,4,158,164
+twintail_front_light 03
+bounds: 1258,684,474,480
+rotate:90
+
+CH0332_home_2.png
+size: 4096,4096
+filter:Linear,Linear
+scale:0.68
+02/Halo_0
+bounds: 3622,16,418,410
+offsets: 0,0,670,616
+rotate:270
+02/Halo_0_2
+bounds: 2632,2280,428,446
+offsets: 242,170,670,616
+02/Halo_1
+bounds: 3516,436,502,502
+offsets: 144,96,646,598
+02/Halo_1_2
+bounds: 3172,4,402,398
+offsets: 0,0,646,598
+02/cloud
+bounds: 2632,3088,992,822
+offsets: 1458,928,2450,1938
+02/cloud2
+bounds: 2428,724,418,598
+offsets: 1074,2,2450,1938
+rotate:90
+02/cloud3
+bounds: 3672,2056,724,376
+offsets: 186,0,2450,1938
+rotate:270
+02/cloud4
+bounds: 3258,1396,694,576
+offsets: 1020,650,1714,1358
+02/cloud5
+bounds: 3258,974,294,420
+offsets: 750,0,1714,1358
+02/cloud6
+bounds: 2638,3554,508,264
+offsets: 130,0,1714,1358
+rotate:90
+02/ironland
+bounds: 2356,366,1460,846
+offsets: 440,0,2584,1918
+rotate:180
+02/ironland2
+bounds: 4,2116,2142,1946
+offsets: 0,726,3610,2672
+02/ironland2_blur
+bounds: 678,2288,1950,1774
+offsets: 0,660,3288,2434
+rotate:180
+02/ironland3
+bounds: 2114,1146,1272,1142
+offsets: 1312,0,2584,1918
+rotate:90
+02/ironland3_blur
+bounds: 2632,1974,1156,1038
+offsets: 1192,0,2348,1744
+rotate:90
+02/ironland_blur
+bounds: 3242,2702,1328,768
+offsets: 400,0,2348,1744
+rotate:90
+02/screen
+bounds: 4,364,2348,1744
+rotate:180
+02/screen2
+bounds: 4,368,2348,1744
+
+CH0332_home_3.png
+size: 4096,2048
+filter:Linear,Linear
+scale:0.68
+03/BG_blur2
+bounds: 2356,4,2020,1498
+rotate:90
+03/BG_new
+bounds: 4,280,2350,1744
+offsets: 0,0,2490,1846
+

@@ -1,21 +1,18 @@
 const AUDIO_PATHS = [
     'BGM.wav', 
     // File taunt dari AnimationsTexts di loadJson.json
-    'CH0333_MemorialLobby_1_1.ogg',
-    'CH0333_MemorialLobby_1_2.ogg',
-    'CH0333_MemorialLobby_2_1.ogg',
-    'CH0333_MemorialLobby_2_2.ogg',
-    'CH0333_MemorialLobby_3_1.ogg',
-    'CH0333_MemorialLobby_3_2.ogg',
-    'CH0333_MemorialLobby_3_3.ogg',
-    'CH0333_MemorialLobby_4_1.ogg',
-    'CH0333_MemorialLobby_4_2.ogg',
-    'CH0333_MemorialLobby_5_1.ogg',
-    'CH0333_MemorialLobby_5_2.ogg',
-    'CH0333_MemorialLobby_6_1.ogg',
-    'CH0333_MemorialLobby_6_2.ogg',
-    'CH0333_MemorialLobby_7_1.ogg',
-    'CH0333_MemorialLobby_7_2.ogg',
+    'CH0332_MemorialLobby_1_1.wav',
+    'CH0332_MemorialLobby_1_2.wav',
+    'CH0332_MemorialLobby_2_1.wav',
+    'CH0332_MemorialLobby_2_2.wav',
+    'CH0332_MemorialLobby_3_1.wav',
+    'CH0332_MemorialLobby_3_2.wav',
+    'CH0332_MemorialLobby_4_1.wav',
+    'CH0332_MemorialLobby_4_2.wav',
+    'CH0332_MemorialLobby_5_1.wav',
+    'CH0332_MemorialLobby_5_2.wav',
+    'CH0332_MemorialLobby_6_1.wav',
+    'CH0332_MemorialLobby_6_2.wav',
     // Note: semua nama file audio taunt diatas berasal dari loadJson.json, dan lokasi file sudah benar
     // (tanpa subdir sound/)
 ];
